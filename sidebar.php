@@ -2,8 +2,6 @@
 /**
  * The sidebar containing the main widget area.
  *
- * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
- *
  * @package Ready_WP_Boot_Score
  */
 

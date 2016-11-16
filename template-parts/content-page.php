@@ -2,8 +2,6 @@
 /**
  * Template part for displaying page content in page.php.
  *
- * @link https://codex.wordpress.org/Template_Hierarchy
- *
  * @package Ready_WP_Boot_Score
  */
 
